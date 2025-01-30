@@ -1,1 +1,0 @@
-start viros.bat
